@@ -1,5 +1,5 @@
-# Social-Networking-Website-php-pdo
-creating your own social network site just like Facebook.there are many Features
+# Social Networking Website PHP PDO
+Creating your own social network site just like Facebook.there are many Features \n
 Status posts
 Newsfeeds
 User profiles
